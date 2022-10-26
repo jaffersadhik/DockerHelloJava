@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dockerjava1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/docker/dockerjava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
